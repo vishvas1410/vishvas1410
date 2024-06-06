@@ -4,7 +4,7 @@
  </div>
  
 ## 💫 About Me:
-  **Hello! I'm Vishvas Patel, a dedicated full-stack web developer. I recently completed my diploma with an impressive CGPA of 9.72 and am currently pursuing my B.E. at L.D. College of Engineering. Throughout my academic journey, I've focused on building innovative and user-friendly web applications. My expertise includes WordPress, HTML, CSS, JavaScript, ReactJS, PHP, and Java. I thrive on new challenges and continuously seek opportunities to expand my skill set. I'm excited to collaborate with others and showcase my work here on GitHub!**
+  **Hello! I'm Vishvas Patel, a dedicated full-stack web developer. I recently completed my diploma with an impressive CGPA of 9.72 and am currently pursuing my B.E. at L.D. College of Engineering. Throughout my academic journey, I've focused on building innovative and user-friendly web applications. My expertise includes WordPress, HTML, CSS, JavaScript, ReactJS, PHP, and Java.**
 
 ## 📫 How to reach me 
 You can reach me at : **vishvaspatel1410@gmail.com**
