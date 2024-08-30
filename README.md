@@ -4,7 +4,7 @@
  </div>
  
 ## 💫 About Me:
-  **Hello! I'm Vishvas Patel, a dedicated web developer. I recently completed my diploma with an impressive CGPA of 9.72 and am currently pursuing my B.E. at L.D. College of Engineering. Throughout my academic journey, I've focused on building innovative and user-friendly web applications. My expertise includes HTML, CSS, JavaScript,Wordpress, ReactJS, PHP, and Java.**
+  **Hello! I'm Vishvas Patel, a dedicated web developer. I recently completed my diploma with an impressive CGPA of 9.72 and am currently pursuing my B.E. at L.D. College of Engineering. Throughout my academic journey, I've focused on building innovative and user-friendly web applications. My expertise includes HTML, CSS, JavaScript, ReactJS, NodeJS, and Java.**
 
 ## 📫 How to reach me 
 You can reach me at : **vishvaspatel1410@gmail.com**
